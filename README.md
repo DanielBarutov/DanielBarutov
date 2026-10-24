@@ -6,8 +6,8 @@
 
 Люблю превращать сложные процессы в понятные, работающие сервисы. Пишу бэкенды для SaaS, доставки и подписочных продуктов — от модели данных до мониторинга в продакшене.
 
-[![Telegram](https://img.shields.io/badge/Написать_в_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daniel_papo)
-[![Email](https://img.shields.io/badge/Написать_на_почту-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barutovdg@gmail.com)
+[![Telegram](https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C_%D0%B2_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daniel_papo)
+[![Email](https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C_%D0%BD%D0%B0_%D0%BF%D0%BE%D1%87%D1%82%D1%83-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barutovdg@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/DanielBarutov?style=for-the-badge&logo=github&label=Followers&color=14b8a6)](https://github.com/DanielBarutov?tab=followers)
 
 ## ☀️ Немного обо мне
